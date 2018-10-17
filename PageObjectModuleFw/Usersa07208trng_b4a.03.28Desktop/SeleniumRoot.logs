@@ -1,0 +1,12 @@
+11:53:04,325 TRACE manualLogger:28 - Trace Message!
+11:53:04,330 DEBUG manualLogger:29 - Debug Message!
+11:53:04,330  INFO manualLogger:30 - Info Message!
+11:53:04,331 ERROR manualLogger:31 - Error Message!
+11:53:04,331 FATAL manualLogger:32 - Fatal Message!
+11:53:04,331  WARN manualLogger:33 - Warn Message!
+11:53:04,332 TRACE root:15 - Trace Message!
+11:53:04,332 DEBUG root:16 - Debug Message!
+11:53:04,333  INFO root:17 - Info Message!
+11:53:04,333 ERROR root:18 - Error Message!
+11:53:04,333 FATAL root:19 - Fatal Message!
+11:53:04,333  WARN root:20 - Warn Message!

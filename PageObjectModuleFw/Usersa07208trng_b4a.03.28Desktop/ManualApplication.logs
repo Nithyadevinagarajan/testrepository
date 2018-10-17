@@ -1,0 +1,6 @@
+[TRACE] 16/10/2018 11:53:04 manualLogger Trace Message!
+[DEBUG] 16/10/2018 11:53:04 manualLogger Debug Message!
+[INFO] 16/10/2018 11:53:04 manualLogger Info Message!
+[ERROR] 16/10/2018 11:53:04 manualLogger Error Message!
+[FATAL] 16/10/2018 11:53:04 manualLogger Fatal Message!
+[WARN] 16/10/2018 11:53:04 manualLogger Warn Message!
